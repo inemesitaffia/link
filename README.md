@@ -13,10 +13,17 @@ https://github.com/MrAlex6204/Books/blob/master/Learning%20Python,%205th%20Editi
 
 https://git-scm.com/downloads
 
-((For git GUI, Get Tortoisegit and sourcetree))
+((For git GUI, Get Tortoisegit and sourcetree
+
+https://tortoisegit.org/
+
+https://www.sourcetreeapp.com/
+
+https://www.sublimemerge.com/
+))
 For online get a github, gitlab and bitbucket account . Maybe use a new different email address
 
-    ((For git GUI, Get Tortoisegit and sourcetree))
+
 
 https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
