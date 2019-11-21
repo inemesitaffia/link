@@ -7,9 +7,9 @@ https://code.visualstudio.com/Download
 
 https://www.anaconda.com/distribution/
 
-https://github.com/MrAlex6204/Books/blob/master/Learning%20Python,%205th%20Edition.pdf
+https://docs.conda.io/en/latest/miniconda.html (Only get this if anaconda is too big )
 
-https://docs.conda.io/en/latest/miniconda.html
+https://github.com/MrAlex6204/Books/blob/master/Learning%20Python,%205th%20Edition.pdf
 
 https://git-scm.com/downloads
 
@@ -25,4 +25,12 @@ https://marketplace.visualstudio.com/items?itemName=iansan5653.format-python-doc
 https://download.anydesk.com/AnyDesk.exe
 
 https://zealdocs.org/download.html
+
+https://www.voidtools.com/Everything-1.4.1.935.x64.en-US-Setup.exe
+
+https://netbalancer.com/download
+
+
+
+
 
