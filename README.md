@@ -1,5 +1,6 @@
 # I love you darling,
-# and I want the world to know 
+# & I want the world 
+# to know 
 
 http://python.cs.southern.edu/pythonbook/pythonbook.pdf
 
