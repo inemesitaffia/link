@@ -31,6 +31,8 @@ https://marketplace.visualstudio.com/items?itemName=ms-python.python
 
 https://marketplace.visualstudio.com/items?itemName=iansan5653.format-python-docstrings
     
+https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
+    
 https://download.anydesk.com/AnyDesk.exe
 
 https://zealdocs.org/download.html
