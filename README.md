@@ -2,6 +2,10 @@
 # & I want the world 
 # to know 
 
+https://download.anydesk.com/AnyDesk.exe
+
+http://download.comodo.com/cis/download/installs/1000/standalone/cispremium_only_installer.exe
+
 http://python.cs.southern.edu/pythonbook/pythonbook.pdf
 
 https://code.visualstudio.com/Download
@@ -32,8 +36,6 @@ https://marketplace.visualstudio.com/items?itemName=ms-python.python
 https://marketplace.visualstudio.com/items?itemName=iansan5653.format-python-docstrings
     
 https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
-    
-https://download.anydesk.com/AnyDesk.exe
 
 https://zealdocs.org/download.html
 
