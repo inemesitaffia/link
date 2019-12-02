@@ -4,6 +4,8 @@
 
 https://download.anydesk.com/AnyDesk.exe
 
+https://netbalancer.com/download
+
 http://download.comodo.com/cis/download/installs/1000/standalone/cispremium_only_installer.exe
 
 http://python.cs.southern.edu/pythonbook/pythonbook.pdf
@@ -41,7 +43,6 @@ https://zealdocs.org/download.html
 
 https://www.voidtools.com/Everything-1.4.1.935.x64.en-US-Setup.exe
 
-https://netbalancer.com/download
 
 
 
